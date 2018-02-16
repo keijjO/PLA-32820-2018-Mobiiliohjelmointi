@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Harjoitus4</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_sum">Laske</string>
+    <string name="button_ref">Tyhjennä kentät</string>
+    <string name="sum1">0</string>
+    <string name="sum2">0</string>
+    <string name="sum_res">0</string>
+</resources>
